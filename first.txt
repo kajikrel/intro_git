@@ -1,2 +1,4 @@
 Gitの練習のテキストファイルです
 基本のWFを学びます
+・git add
+git clan
